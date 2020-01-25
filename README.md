@@ -2,7 +2,7 @@
 
 ## Personal portfolio website
 
-**Copyright (c) 2018-3018 Shahariar Rabby**
+**Copyright (c) 2018-3018 Manohar Palanisamy**
 
 ## Thanks to [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
 
