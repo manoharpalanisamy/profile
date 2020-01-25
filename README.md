@@ -1,4 +1,4 @@
-# [bit.ly/MLNotesStanford](bit.ly/MLNotesStanford)
+# [bit.ly/MLNotesStanford](https://bit.ly/MLNotesStanford)
 
 ## Personal portfolio website
 
