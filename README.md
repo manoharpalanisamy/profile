@@ -1,4 +1,4 @@
-# [ShahariarRabby.github.io](https://shahariarrabby.github.io)
+# [bit.ly/MLNotesStanford](bit.ly/MLNotesStanford)
 
 ## Personal portfolio website
 
